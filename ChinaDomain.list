@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,youku.com
 
 # Apple CN
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,icloud.com.cn
 
 # Baidu
